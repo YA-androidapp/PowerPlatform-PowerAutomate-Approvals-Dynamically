@@ -1,0 +1,9 @@
+{
+  "applicant": "admin@contoso.onmicrosoft.com",
+  "authorizer": [
+    {"type": "everyone", "member": [ "AdeleV@contoso.onmicrosoft.com", "AlexW@contoso.onmicrosoft.com" ] },
+    {"type": "first", "member": [ "AdeleV@contoso.onmicrosoft.com", "AlexW@contoso.onmicrosoft.com" ] },
+    {"type": "all", "member": [ "AdeleV@contoso.onmicrosoft.com", "AlexW@contoso.onmicrosoft.com" ] },
+    {"type": "one", "member": [ "AdeleV@contoso.onmicrosoft.com", "AlexW@contoso.onmicrosoft.com" ] }
+  ]
+}
